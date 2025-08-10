@@ -1,5 +1,7 @@
 # Terminal Paintball (C, Sockets)
 
+Developed by Victor Kamrowski
+
 A 4-player, turn-based **terminal paintball** game implemented in **C** with TCP sockets.  
 Multiple clients connect to a central server; players take turns choosing to **hide** (set a position 0–2) or **shoot** a specific player and position. Last player standing wins.
 
@@ -78,3 +80,9 @@ make clean
 - Concurrent client handling in C
 - Protocol/command parsing
 - Modular C design and build automation
+
+___
+
+## Author
+Victor Kamrowski  
+GitHub: [vkamrowski50](https://github.com/vkamrowski50)
