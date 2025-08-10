@@ -72,6 +72,7 @@ make clean
 ## Notes
 - Designed for **local testing**. Default port is set in the source; ensure the port is free.
 - Requires a POSIX environment with a C compiler (e.g., macOS or Linux).
+- **Repository import notice:** This repository was imported in a single commit from a private development repo where it was originally created and maintained. The commit history was reset to remove unrelated school references.
 
 ---
 
