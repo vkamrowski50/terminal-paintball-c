@@ -1,0 +1,11 @@
+# binaries / objects
+*.o
+client
+server
+clientfile
+serverfile
+
+#macOS / editors
+.DS_Store
+.vscode/
+.idea/
